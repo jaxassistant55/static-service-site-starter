@@ -6,6 +6,7 @@ This repository exists as a lead surface for a fixed-scope service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-customization.html
 - Live free preview: https://jaxassistant55.github.io/static-service-site-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/static-service-site-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-brief-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/6
 - Price: $200 starter-site customization
