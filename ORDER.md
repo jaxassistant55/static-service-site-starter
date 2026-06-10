@@ -3,6 +3,12 @@
 Use the public brief builder first:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-brief-builder.html
+Ready-to-buy route:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html
+Prefilled inquiry page:
+
+https://jaxassistant55.github.io/static-service-site-starter/inquiry.html
 
 Then open or comment on the order-board issue:
 
