@@ -5,6 +5,7 @@ Free public preview for a one-page local service business website.
 This repository exists as a lead surface for a fixed-scope service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-customization.html
+- Live free preview: https://jaxassistant55.github.io/static-service-site-starter/demo/
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-brief-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/6
 - Price: $200 starter-site customization
@@ -34,4 +35,3 @@ Not included: hosting setup unless separately scoped, payment processing, logo d
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts scope, pays through a user-owned payment route, receives the customized site, and payment is posted, released, payable, or cleared.
-
