@@ -5,6 +5,7 @@ Free public preview for a one-page local service business website.
 This repository exists as a lead surface for a fixed-scope service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-customization.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/static-service-site-starter/issues/new?template=ready-to-pay-static-service-site-starter.yml
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/static-service-site-starter/inquiry.html

@@ -1,5 +1,10 @@
 # Order The Static Service Site Customization
 
+Structured ready-to-pay issue form:
+
+https://github.com/jaxassistant55/static-service-site-starter/issues/new?template=ready-to-pay-static-service-site-starter.yml
+
+
 Use the public brief builder first:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/static-demo-site-brief-builder.html
@@ -62,6 +67,11 @@ Paste a seller-owned checkout, invoice, marketplace order, funded milestone, or 
 
 Do not post private customer data, payment screenshots, credentials, or sensitive business files in GitHub issues.
 ## Direct Repo Order Board
+
+For structured intake instead of a free-form comment, open:
+
+https://github.com/jaxassistant55/static-service-site-starter/issues/new?template=ready-to-pay-static-service-site-starter.yml
+
 
 Use this repo-specific order board for the lowest-friction public buyer comment path:
 
