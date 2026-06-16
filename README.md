@@ -64,6 +64,18 @@ The paid package can produce:
 
 Not included: hosting setup unless separately scoped, payment processing, logo design, custom photography, legal/medical/financial claims, or publishing under a business name without owner approval.
 
+<!-- standalone-payment-handoff:start -->
+## Direct Payment Handoff After Exact Acceptance
+
+- Route-specific payment handoff: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#static-service-site-starter
+- Ready-to-pay form: https://github.com/jaxassistant55/static-service-site-starter/issues/new?template=ready-to-pay-static-service-site-starter.yml
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#static-service-site-starter
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- Invoice line: Static Service Site Starter fixed-scope paid work - $200
+- Gross sales needed to reach $100: 1
+
+Use this handoff only after a real buyer selects Static Service Site Starter, pastes the exact acceptance statement, and you have a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. The handoff page and generated message count $0 until external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
+<!-- standalone-payment-handoff:end -->
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts scope, pays through a user-owned payment route, receives the customized site, and payment is posted, released, payable, or cleared.
